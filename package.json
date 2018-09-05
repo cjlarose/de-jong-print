@@ -1,0 +1,13 @@
+{
+  "name": "de-jong-print",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chris LaRose <cjlarose@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^5.0.0",
+    "typescript": "^3.0.3",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0"
+  }
+}
